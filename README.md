@@ -1,29 +1,79 @@
-<h1 align="center">Hi 👋, I'm Arpit Kumar</h1>
-<h3 align="center">A Data Analyst from India</h3>
+# Arpit Kumar - Data Analyst Portfolio
+## About
+As a recent graduate with a Bachelor of Technology in Electronics and Communication Engineering from C.V. Raman Global University, I’ve always been fascinated by the intersection of technology and data.
 
-- 🌱 I’m currently learning **Machine Learning, Python**
+I have consistently demonstrated my ability to excel, maintaining a CGPA of 8 while pursuing certifications in emerging technologies like Generative AI and Programming Fundamentals Using Python.
 
-- 💬 Ask me about **MySql**
+I’ve also worked on an exciting Car Price Prediction project, where I developed a machine learning model using Decision Tree and Logistic Regression techniques to predict car prices with 92.33% accuracy. This experience honed my ability to transform raw data into actionable insights using tools like Tableau, Power BI, and Excel.
 
-- 📫 How to reach me **arpitkumar32872@gmail.com**
 
-- ⚡ Fun fact **I am funny**
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="ar-pi-the" /> </p>
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arpit-kumar-593866185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpit-kumar-593866185/" height="30" width="40" /></a>
-<a href="https://medium.com/@arpitkumar32872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arpitkumar32872" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/black bird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="black bird" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/arpitkumar32872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/arpitkumar32872" height="30" width="40" /></a>
-</p>
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+### Car-Price-Prediction
+**Code:** (https://github.com/ar-pi-the/Car-Price-Prediction/blob/main/Car%20Price%20Prediction.ipynb)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-pi-the&show_icons=true&locale=en&layout=compact" alt="ar-pi-the" /></p>
+**Goal:** To Predict the price of used cars using the various ML Models
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-pi-the&show_icons=true&locale=en" alt="ar-pi-the" /></p>
+**Description:** The Car Price Prediction project aims to estimate the price of a car based on various features such as make, model, year, mileage, and other relevant attributes. The model is built using Python and popular machine learning libraries, providing a robust solution for accurate predictions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-pi-the&" alt="ar-pi-the" /></p>
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+**Results:** Achieved an exceptional 92.33% accuracy on the training dataset, demonstrating the robustness of the predictive model.
+
+### Shark Tank India
+
+**Goal:** The goal of the Shark Tank India Dashboard project is to create a visually engaging and interactive platform that provides comprehensive insights into the deals, investments, and entrepreneurial trends showcased on the show.
+
+**Code:** [https://github.com/ar-pi-the/Shark-Tank-India-/blob/main/dashboard.pbix]
+
+**Description:** This Power BI Dashboard is designed to provide an in-depth analysis of the deals, investments, and entrepreneurial trends featured on Shark Tank India. By transforming raw data into compelling visualizations, this dashboard offers a dynamic and interactive experience for exploring the show's investment landscape.
+
+**Skills:** data cleaning, data modeling, hypothesis testing, data analysis expressions.
+
+**Technology:** Python, Power Bi.
+
+**Results:** The Shark Tank India Dashboard successfully transformed raw data into actionable insights, providing a comprehensive analysis of the show's entrepreneurial and investment ecosystem.
+
+
+
+### Lead Project
+**Code:** [https://github.com/ar-pi-the/LEAD-Project/blob/main/gitignore.txt]
+
+**Description:** The purpose is to optimize the lead scoring mechanism based on their fit, demographics, behaviours, buying tendency etc. By implementing explicit & Implicit lead scoring modelling with lead point system.
+
+
+**Skills:** Python
+
+**Technology:** Matplotlib
+
+
+
+
+
+
+
+
+
+
+## Education
+Cv Raman Global University, Bhubaneswar: 
+B.tech - Electronics And Communication Engineering
+Nov 2020 - May 2024
+
+
+
+## Certificates
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [Google Advanced Data Analyticsl Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/H951TJO9YWKI) (Dec 2024) (Coursera - Google)
+- [Programming Fundamentals using Python - Part 1](https://drive.google.com/file/d/1HtKaa62swzTuP762eH4V4pz-6t2X11Ck/view?usp=sharing) (Feb 2024) (Infosys Springboard)
+  
+
+## Contacts
+- LinkedIn: (https://www.linkedin.com/in/arpit-kumar-cgu/)
+- Email: arpitkumar32872@gmail.com
